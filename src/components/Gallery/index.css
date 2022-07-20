@@ -1,0 +1,6 @@
+.Gallery {
+  display: flex;
+  gap: 30px;
+  justify-content: center;
+  margin-top: 120px;
+}
